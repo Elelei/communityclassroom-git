@@ -1,3 +1,4 @@
 # Demo
 
-some description.
+some description!
+I am learning more about Git and Github.
